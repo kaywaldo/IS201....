@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(245, 235, 242);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 5px solid black;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+ol{
+    list-style-position: inside;
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+    text-align:center;
+
+}
+
+#top{
+    text-decoration: underline;
+    color: rgb(218, 120, 195);
+
+}
+
+p{
+    font-weight: bold;
+}
